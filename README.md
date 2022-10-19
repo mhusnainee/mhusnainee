@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Solidity and Smart Contracts
 - 💞️ I’m looking to collaborate on these topics
 - 📫 mhusnainabbas2@gmail.com
+- 💼 http://www.linkedin.com/in/MuhammadHusnainAbbas
 
 <!---
 mhusnainee/mhusnainee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
