@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Husnain Abbas
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Solidity and Smart Contracts
-- 💞️ I’m looking to collaborate on these topics
+- 👀 I’m a Blockchain Developer
+- 🌱 I’m currently working on web3 projects
+- 💞️ I’m looking to collaborate on Solidity, web3, NFTs, and DeFi projects
 - 📫 mhusnainabbas2@gmail.com
 - 💼 http://www.linkedin.com/in/MuhammadHusnainAbbas
 
